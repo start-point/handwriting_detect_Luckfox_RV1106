@@ -1,0 +1,2 @@
+# handwriting_detect_Luckfox_RV1106
+本仓库用于存储Luckfox幸狐 RV1106 Linux 开发板部署手写识别的代码和过程记录。
